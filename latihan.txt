@@ -2,3 +2,4 @@ Latihan Git
 - satu
 - dua
 - tiga
+- empat
